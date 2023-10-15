@@ -1,0 +1,19 @@
+div[data-syncfusion-banner] {
+  display: none !important;
+}
+.event-menu {
+  box-sizing: border-box;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 2px solid #ccc;
+  background-color: #ffffff;
+  color: #ccc;
+
+  cursor: pointer;
+
+}
+
+.event-menu:hover {
+  color: #999;
+  border-color: #999;
+}
